@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuna423)](https://solved.ac/hyuna423)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=firstluv423)](https://solved.ac/firstluv423)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuna423&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
