@@ -6,8 +6,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunh2k)](https://solved.ac/hyunh2k)
 
-<!--
-**hyuna423/hyuna423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+✨ _special_ ✨
 
 Here are some ideas to get you started:
 
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
