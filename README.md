@@ -6,24 +6,12 @@
 
 
   
-  <div align=center><h1>👋 Hi, I’m @hyunhee😁</h1></div>
+  <div align=center><h1>👋 Hi, I’m hyunhee😁</h1></div>
   
   
   ✨ _special_ ✨
 </div>
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- 
  
  
 <div align=center>
@@ -41,10 +29,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
-<br/><br/>  
+<br/>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuna423&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
-
 <br/>
 
 <h3>💋 Social 💋</h3>
